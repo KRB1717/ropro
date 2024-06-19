@@ -1,0 +1,14 @@
+material Plastic_label/Plastic_label
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture plastic_label.png
+      }
+    }
+  }
+}
+

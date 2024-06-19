@@ -1,0 +1,14 @@
+material Can/Can
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture can.png
+      }
+    }
+  }
+}
+

@@ -1,0 +1,14 @@
+material Can_label/Can_label
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture can_label.png
+      }
+    }
+  }
+}
+

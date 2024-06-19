@@ -1,0 +1,14 @@
+material Paper_label/Paper_label
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture paper_label.png
+      }
+    }
+  }
+}
+

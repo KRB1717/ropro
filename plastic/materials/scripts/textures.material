@@ -1,0 +1,14 @@
+material Plastic/Plastic
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture plastic.png
+      }
+    }
+  }
+}
+

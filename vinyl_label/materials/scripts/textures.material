@@ -1,0 +1,14 @@
+material Vinyl_label/Vinyl_label
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture vinyl_label.png
+      }
+    }
+  }
+}
+
