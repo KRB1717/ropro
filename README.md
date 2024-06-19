@@ -1,6 +1,6 @@
 워크스페이스/src에 파일 넣기
-map 구성 때문에 model 파일도 필요
-
+map 구성 때문에 .gazebo/models 안에 object 파일도 필요
+*.파일 안보일시 home에서 ctrl + h
 
 cd ~/{워크스페이스 이름}
 
